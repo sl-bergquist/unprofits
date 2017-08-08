@@ -8,4 +8,4 @@ Sherri Rose, Savannah Bergquist, and Tim Layton (2017). Computational health eco
 
 3. [df_sim.csv](https://github.com/sl-bergquist/unprofits/blob/master/df_sim.csv) and [df_sim_250.csv](https://github.com/sl-bergquist/unprofits/blob/master/df_sim_250.csv) contain simulated data sets (2,006,126 and 250,000 observations, respectively)
 
-Supplementary materials are available online at [http://biostatistics.oxfordjournals.org](https://academic.oup.com/biostatistics/article-lookup/doi/10.1093/biostatistics/kxx012#63806114). 
+Simulation results available in the [supplementary materials](https://academic.oup.com/biostatistics/article-lookup/doi/10.1093/biostatistics/kxx012#63806114). 
