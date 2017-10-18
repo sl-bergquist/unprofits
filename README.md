@@ -1,6 +1,6 @@
 ## Unprofits
 Appendix material for *Unprofitability* project. 
-Sherri Rose, Savannah Bergquist, and Tim Layton (2017). Computational health economics for identification of unprofitable health care enrollees. Biostatistics, [doi:10.1093/biostatistics/kxx012](https://academic.oup.com/biostatistics/article-lookup/doi/10.1093/biostatistics/kxx012).
+Sherri Rose, Savannah Bergquist, and Tim Layton (2017). Computational health economics for identification of unprofitable health care enrollees. Biostatistics, 18(4):682-94. [doi:10.1093/biostatistics/kxx012](https://academic.oup.com/biostatistics/article-lookup/doi/10.1093/biostatistics/kxx012).
 
 1. [unprofitability_SL.R](https://github.com/sl-bergquist/unprofits/blob/master/unprofitability_SL.R) and [unprofitability_CV.R](https://github.com/sl-bergquist/unprofits/blob/master/unprofitability_CV.R) contain the code used to run the main analyses (using proprietary data)
 
